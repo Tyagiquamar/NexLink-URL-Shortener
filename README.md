@@ -64,14 +64,4 @@ NexLink is a modern, user-friendly URL shortening service that makes sharing, tr
 ```
 --
 
-## 👨‍💻 Author
-  
-GitHub: [@CodzHorizon](https://github.com/CodzHorizon)
 
----
-
-## ©️ Copyright
-
-© 2025 CodzHorizon. All rights reserved.
-
-This project is intended for educational and personal use only.
